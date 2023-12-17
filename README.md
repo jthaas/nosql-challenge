@@ -3,7 +3,7 @@ Module 12 Challenge
 
 The repo contains the following files:
 1. a 'Resources folder' with the establishments.json file used to create the database
-2. NOSQL_analysis.ipynb
+2. NOSQL_analysis_starter.ipynb
 3. NOSQL_setup_starter.ipynb
 4. README.md
 
